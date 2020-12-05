@@ -21,3 +21,4 @@ function t2() {
             p[max - 1] == letter && p[min - 1] != letter);
     });
 }
+
